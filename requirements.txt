@@ -1,1 +1,6 @@
-streamlit>=1.35\nwatchdog>=4.0\npandas>=2.0\nplotly>=5.20\nreportlab>=4.0\npsutil>=5.9\n
+streamlit>=1.35
+watchdog>=4.0
+pandas>=2.0
+plotly>=5.20
+reportlab>=4.0
+psutil>=5.9
