@@ -1,0 +1,1 @@
+Run `python -m unittest discover -s tests -v`. Tests cover hash change detection, sensitive file detection, and allowed destination checks. Manually test create, modify, move and delete events with harmless files.
